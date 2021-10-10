@@ -1,0 +1,384 @@
+{
+
+        "item_id": 3830,
+
+        "name": "ZEALOT OUTDOOR WIRELESS SPEAKER S8",
+
+        "barcode_name": "",
+
+        "modifiers": [],
+
+        "item_number": "6925284300087",
+
+        "supplier_id": null,
+
+        "product_id": null,
+
+        "size": "",
+
+        "expire_days": null,
+
+        "ecommerce_product_id": "60601",
+
+        "category": "Consumer Electronics > HOME APPLIANCES",
+
+        "category_id": 343,
+
+        "manufacturer": "",
+
+        "manufacturer_id": null,
+
+        "cost_price": "7000.00",
+
+        "unit_price": "10500.00",
+
+        "max_discount_percent": null,
+
+        "max_edit_price": null,
+
+        "min_edit_price": null,
+
+        "promo_price": null,
+
+        "start_date": null,
+
+        "end_date": null,
+
+        "reorder_level": null,
+
+        "replenish_level": null,
+
+        "description": "ZEALOT S8 Portable Wireless Bluetooth Speaker with Silicon Sling Cover, Supports TF Card Music Playing and 5V USB Power Output (Black)\n",
+
+        "long_description": "Equipped with the advanced Bluetooth 4.0 technology, compatible with all Bluetooth-enabled devices (Bluetooth V2.1 and over). Plays all Audio devices through 3.5mm Aux in Jack.\nPortable &amp; fashion design with compact Size. Come with sling cover and Carabiner,Easily to carry with, only 15 ounces.\nBuilt-in 4000mA Rechargeable Battery for up to 12 hours of playtime. Built-in microphone for hands-free speaker phone calling Easy to pair - No code/pin needed.\nExceptional sound quality,Implemented with advanced bass enhancement technology. In the same price range, the ZEALOT S8 is the most competitive speaker in the market that is offering\n1 year warranty, risk free manufacturer's warranty included plus 30 Days Money Back Guarantee. Need technical or product advice? Our friendly customer service and technical support team are ready to help you with whatever questions you might have\n",
+
+        "disable_loyalty": false,
+
+        "is_service": false,
+
+        "allow_alt_description": false,
+
+        "is_serialized": false,
+
+        "is_favorite": false,
+
+        "is_ebt_item": false,
+
+        "is_ecommerce": true,
+
+        "tax_included": false,
+
+        "change_cost_price": false,
+
+        "override_default_tax": false,
+
+        "tax_class_id": null,
+
+        "tags": [],
+
+        "additional_item_numbers": [],
+
+        "serial_numbers": [],
+
+        "commission_percent": null,
+
+        "commission_fixed": null,
+
+        "commission_percent_type": "",
+
+        "allow_price_override_regardless_of_permissions": false,
+
+        "only_integer": false,
+
+        "is_barcoded": true,
+
+        "item_inactive": false,
+
+        "main_image_id": 3432,
+
+        "is_series_package": false,
+
+        "series_quantity": null,
+
+        "series_days_to_use_within": null,
+
+        "default_quantity": null,
+
+        "weight": null,
+
+        "length": null,
+
+        "width": null,
+
+        "height": null,
+
+        "info_popup": null,
+
+        "last_modified": "17-06-2020",
+
+        "loyalty_multiplier": null,
+
+        "custom_fields": {
+
+            "Package Plan Selector": "NO",
+
+            "SMS Notification": "NO",
+
+            "Vending Provider": "NONE",
+
+            "Commissions Profits %": null
+
+        },
+
+        "images": [
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/2799?timestamp=1586798490",
+
+                "title": "",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/2800?timestamp=1586798518",
+
+                "title": "",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/2801?timestamp=1586798539",
+
+                "title": "",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/2947?timestamp=1590259435",
+
+                "title": "zelaot8_121.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/2948?timestamp=1590259439",
+
+                "title": "zelaot8_122.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/2949?timestamp=1590259447",
+
+                "title": "zelaot8_123.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/3432?timestamp=1590599288",
+
+                "title": "zelaot8_121.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/3433?timestamp=1590599295",
+
+                "title": "zelaot8_122.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/3434?timestamp=1590599299",
+
+                "title": "zelaot8_123.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/3435?timestamp=1590599302",
+
+                "title": "zelaot8_121.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/3436?timestamp=1590599306",
+
+                "title": "zelaot8_122.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            },
+
+            {
+
+                "image_url": "http://epos.shopazo.com.ng:8080/app_files/view/3437?timestamp=1590599338",
+
+                "title": "zelaot8_123.jpg",
+
+                "alt_text": "",
+
+                "variation_id": null
+
+            }
+
+        ],
+
+        "variations": [],
+
+        "tier_pricing": [],
+
+        "locations": {
+
+            "1": {
+
+                "quantity": 0,
+
+                "location": "",
+
+                "unit_price": "0.00",
+
+                "cost_price": "0.00",
+
+                "promo_price": "0.00",
+
+                "start_date": null,
+
+                "end_date": null,
+
+                "reorder_level": "",
+
+                "replenish_level": "",
+
+                "override_default_tax": false,
+
+                "tax_class_id": null,
+
+                "variations": [],
+
+                "tier_pricing": []
+
+            },
+
+            "2": {
+
+                "quantity": 0,
+
+                "location": "",
+
+                "unit_price": "0.00",
+
+                "cost_price": "0.00",
+
+                "promo_price": "0.00",
+
+                "start_date": "Not set",
+
+                "end_date": "Not set",
+
+                "reorder_level": 0,
+
+                "replenish_level": 0,
+
+                "override_default_tax": false,
+
+                "tax_class_id": null,
+
+                "variations": [],
+
+                "tier_pricing": []
+
+            },
+
+            "3": {
+
+                "quantity": 0,
+
+                "location": "",
+
+                "unit_price": "0.00",
+
+                "cost_price": "0.00",
+
+                "promo_price": "0.00",
+
+                "start_date": "Not set",
+
+                "end_date": "Not set",
+
+                "reorder_level": 0,
+
+                "replenish_level": 0,
+
+                "override_default_tax": false,
+
+                "tax_class_id": null,
+
+                "variations": [],
+
+                "tier_pricing": []
+
+            }
+
+        },
+
+        "unit_variations": []
+
+    },
+	
+	
+	
